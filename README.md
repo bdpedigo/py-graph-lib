@@ -51,6 +51,7 @@ Collection of python graph libraries and tools that could be useful
 
 ### StellarGraph
 - [Github](https://github.com/stellargraph/stellargraph)
+- [Docs](https://stellargraph.readthedocs.io/en/stable/index.html#)
 
 ### PyTorch Geometric 
 - [Github](https://github.com/rusty1s/pytorch_geometric)
@@ -58,7 +59,7 @@ Collection of python graph libraries and tools that could be useful
 ### PyTorch BigGraph
 -[Github](https://github.com/facebookresearch/PyTorch-BigGraph)
 
-
-
-- [Docs](https://stellargraph.readthedocs.io/en/stable/index.html#)
-
+### Karate Club
+- [Github](https://github.com/benedekrozemberczki/karateclub)
+- [Docs](https://karateclub.readthedocs.io/)
+- Unsupervised machine learning
