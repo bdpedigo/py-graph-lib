@@ -18,6 +18,11 @@ Collection of python graph libraries and tools that could be useful
 ### Topologic
 
 ### iGraph Python
+- [Github](https://github.com/igraph/python-igraph)
+- interface to iGraph library
+- not a fan of the API or docs 
+- has a bunch of community detection methods 
+- should be faster than NetworkX and has a lot of low level implementation stuff
 
 ### Graph-tool
 - [Gitlab](https://git.skewed.de/count0/graph-tool)
@@ -29,3 +34,10 @@ Collection of python graph libraries and tools that could be useful
 - [Github](https://github.com/google/gcnn-survey-paper)
 - Not exactly a package in the same sense 
 - useful framework in the paper itself, haven't looked at the code much
+
+### Scipy.sparse.graph
+- [Github]()
+- [Docs](https://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html)
+- A lot of low level stuff for adjacency matrices
+- Ubiquitous
+- Limited scope of algorithms
