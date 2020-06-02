@@ -45,3 +45,20 @@ Collection of python graph libraries and tools that could be useful
 - A lot of low level stuff for adjacency matrices
 - Ubiquitous
 - Limited scope of algorithms
+
+### SNAP
+-[Docs](http://snap.stanford.edu/snappy/index.html)
+
+### StellarGraph
+- [Github](https://github.com/stellargraph/stellargraph)
+
+### PyTorch Geometric 
+- [Github](https://github.com/rusty1s/pytorch_geometric)
+
+### PyTorch BigGraph
+-[Github](https://github.com/facebookresearch/PyTorch-BigGraph)
+
+
+
+- [Docs](https://stellargraph.readthedocs.io/en/stable/index.html#)
+
