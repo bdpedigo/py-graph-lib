@@ -47,7 +47,7 @@ Collection of python graph libraries and tools that could be useful
 - Limited scope of algorithms
 
 ### SNAP
--[Docs](http://snap.stanford.edu/snappy/index.html)
+- [Docs](http://snap.stanford.edu/snappy/index.html)
 
 ### StellarGraph
 - [Github](https://github.com/stellargraph/stellargraph)
@@ -57,7 +57,7 @@ Collection of python graph libraries and tools that could be useful
 - [Github](https://github.com/rusty1s/pytorch_geometric)
 
 ### PyTorch BigGraph
--[Github](https://github.com/facebookresearch/PyTorch-BigGraph)
+- [Github](https://github.com/facebookresearch/PyTorch-BigGraph)
 
 ### Karate Club
 - [Github](https://github.com/benedekrozemberczki/karateclub)
