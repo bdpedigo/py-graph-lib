@@ -16,6 +16,9 @@ Collection of python graph libraries and tools that could be useful
 - Graph matching
 
 ### Topologic
+- [Github](https://github.com/microsoft/topologic)
+- ASE/LSE/OMNI
+- community detection? (Leiden)
 
 ### iGraph Python
 - [Github](https://github.com/igraph/python-igraph)
